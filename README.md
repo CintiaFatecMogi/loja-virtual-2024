@@ -1,5 +1,5 @@
 # Loja Virtual
 Desenvolvimento de uma loja virtual, utilizando:
-Spring Boot
-React
+Spring Boot;
+React;
 Next.js
